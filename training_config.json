@@ -1,0 +1,19 @@
+{
+    "data_path": "./datasets",
+    "result_path": "./results",
+    
+    "dataset": "face_images",
+    "image_size": [160, 160],
+    "lr": 0.0001,
+    "n_epochs": 1,
+    "n_rounds": 1,
+    "batch_size": 250,
+    "n_class": 0,
+    "device": 0,
+    "verbose": 1,
+    "port": 8005,
+    "max_retries": 10,
+    "retry_delay": 10
+}
+
+
